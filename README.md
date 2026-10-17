@@ -11,6 +11,7 @@ The application includes a modern React frontend, a secure Node.js/Express backe
 
 Built using React with TailwindCSS
 
+
 Fully responsive UI (mobile + desktop)
 
 Reusable components & modular structure
